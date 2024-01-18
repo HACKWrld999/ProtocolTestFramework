@@ -50,7 +50,7 @@
   </ItemGroup>
   <ItemGroup Condition=" '$(TargetFramework)' == 'net7.0' ">
     <PackageReference Include="MSTest.TestFramework" Version="3.0.2" />
-    <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.3.3" />
+    <PackageReference Include="Microsoft.PowerShell.SDK" Version="7.3.11" />
   </ItemGroup>
 
 
